@@ -3,6 +3,7 @@
 Conway's game of life on the mbed LPC1114FN28, using the Banggood display.  
 Limited to a matrix of 30x40 cells, since the memory of the system is limited.  
 Example of pulsar included in code.  
+Special thanks to /kkarahodzi1 & /ekvinto.  
 ![Image not found](schema.jpg?raw=true "Wiring")
 ```
 /*  
